@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
