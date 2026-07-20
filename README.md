@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
