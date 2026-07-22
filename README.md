@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Segment Tree
