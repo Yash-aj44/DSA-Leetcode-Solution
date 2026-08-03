@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1406-stone-game-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
