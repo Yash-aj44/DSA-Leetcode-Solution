@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3900-longest-balanced-substring-after-one-swap](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3900-longest-balanced-substring-after-one-swap](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3900-longest-balanced-substring-after-one-swap](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Stack
 |  |
 | ------- |
