@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3161-block-placement-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3161-block-placement-queries) |
