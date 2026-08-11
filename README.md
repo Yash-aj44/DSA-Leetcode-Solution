@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3161-block-placement-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3900-longest-balanced-substring-after-one-swap](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3900-longest-balanced-substring-after-one-swap) |
 ## Binary Search
