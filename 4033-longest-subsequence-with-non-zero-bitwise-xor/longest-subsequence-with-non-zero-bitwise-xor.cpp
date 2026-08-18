@@ -1,29 +1,30 @@
+#include <vector>
+#include <numeric>
+
 class Solution {
 public:
-    int longestSubsequence(vector<int>& nums) {
-        int n = nums.size();
+    int longestSubsequence(std::vector<int>& nums) {
         int totalXor = 0;
         bool hasNonZero = false;
 
-        for (int x : nums) {
-            totalXor ^= x;
-
-            if (x != 0) {
+        for (int num : nums) {
+            totalXor ^= num;
+            if (num != 0) {
                 hasNonZero = true;
             }
         }
 
-        // Entire array already has non-zero XOR
-        if (totalXor != 0) {
-            return n;
-        }
-
-        // All elements are zero
+        // Case 1: All elements are 0
         if (!hasNonZero) {
             return 0;
         }
 
-        // Remove one non-zero element
-        return n - 1;
+        // Case 2: XOR of all elements is already non-zero
+        if (totalXor != 0) {
+            return nums.size();
+        }
+
+        // Case 3: XOR of all elements is zero, remove 1 non-zero element
+        return nums.size() - 1;
     }
 };
