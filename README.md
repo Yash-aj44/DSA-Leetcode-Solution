@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1518-water-bottles) |
+| [1927-sum-game](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
