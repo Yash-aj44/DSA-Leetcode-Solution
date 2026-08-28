@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1406-stone-game-iii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
