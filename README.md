@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1140-stone-game-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0125-valid-palindrome) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
