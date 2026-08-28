@@ -6,5 +6,5 @@ public:
         sort(t.begin(),t.end());
 
         return s==t;
-    }
+    }    
 };
