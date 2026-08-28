@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
