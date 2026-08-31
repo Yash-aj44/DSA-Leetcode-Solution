@@ -16,16 +16,16 @@ public:
 
             ListNode* next = curr->next;
 
-            // Check if curr is a critical point
+            
             if ((curr->val > prev->val && curr->val > next->val) ||
                 (curr->val < prev->val && curr->val < next->val)) {
 
-                // First critical point
+                
                 if (first == -1) {
                     first = index;
                 }
                 else {
-                    // Distance from previous critical point
+                   
                     minDist = min(minDist, index - last);
                 }
 
@@ -37,7 +37,7 @@ public:
             index++;
         }
 
-        // Fewer than 2 critical points
+        
         if (first == -1 || first == last) {
             return {-1, -1};
         }
