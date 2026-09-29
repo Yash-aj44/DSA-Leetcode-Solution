@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3161-block-placement-queries) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
 |  |
@@ -363,4 +366,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
