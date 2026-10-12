@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3161-block-placement-queries) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
