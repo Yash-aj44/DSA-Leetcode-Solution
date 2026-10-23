@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0338-counting-bits) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
