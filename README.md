@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1406-stone-game-iii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -421,4 +424,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
