@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
