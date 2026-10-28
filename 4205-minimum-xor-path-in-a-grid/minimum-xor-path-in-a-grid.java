@@ -7,7 +7,7 @@ class Solution {
             for (int j = 0; j < n; j++) {
                 boolean[] next = new boolean[1024];
                 for (int x = 0; x < 1024; x++)
-                    if (dp[j][x] || j > 0 && dp[j - 1][x]) next[x ^ row[j]] = true;  // from above or from the left
+                    if (dp[j][x] || j > 0 && dp[j - 1][x]) next[x ^ row[j]] = true; 
                 dp[j] = next;
             }
         int x = 0;
