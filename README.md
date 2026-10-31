@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Yash-aj44/DSA-Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
